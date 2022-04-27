@@ -1,4 +1,3 @@
-
 // Import the functions you need from the SDKs you need
 import { initializeApp } from "firebase/app";
 // TODO: Add SDKs for Firebase products that you want to use
@@ -6,12 +5,12 @@ import { initializeApp } from "firebase/app";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-    apiKey: "AIzaSyActt5RaorkRUf8yEt5ixAAK9RFsQBpBvo",
-    authDomain: "router-firebase-integrat-4f2fe.firebaseapp.com",
-    projectId: "router-firebase-integrat-4f2fe",
-    storageBucket: "router-firebase-integrat-4f2fe.appspot.com",
-    messagingSenderId: "1001168651756",
-    appId: "1:1001168651756:web:b8645fb8b0f6706436acc9"
+    apiKey: "AIzaSyBghWxlIsbtdmbWwg-EwRF6n8dxjzgQPQ0",
+    authDomain: "avira-7582b.firebaseapp.com",
+    projectId: "avira-7582b",
+    storageBucket: "avira-7582b.appspot.com",
+    messagingSenderId: "56732348821",
+    appId: "1:56732348821:web:4c26d150ba6fae4517069c"
 };
 
 // Initialize Firebase

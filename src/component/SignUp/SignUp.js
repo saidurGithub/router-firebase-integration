@@ -22,7 +22,7 @@ const SignUp = () => {
                 </div>
 
                 <button type="submit" className="btn btn-primary me-2">Sign Up</button>
-                <button className='btn btn-primary'> Sign In Google </button>
+                {/* <button className='btn btn-primary'> Sign In Google </button> */}
             </form>
         </div>
     );
